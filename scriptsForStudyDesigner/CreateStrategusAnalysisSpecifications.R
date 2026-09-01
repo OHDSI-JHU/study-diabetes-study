@@ -7,6 +7,8 @@
 # https://ohdsi.github.io/Strategus/reference/index.html#omop-cdm-hades-modules.
 # This help page also contains links to the corresponding HADES package that
 # further details.
+
+**TEST COMMITT**
 # ##############################################################################
 library(Strategus)
 library(tibble)
