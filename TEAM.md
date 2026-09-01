@@ -8,4 +8,4 @@ a messy first commit is exactly right.
 
 | Name | Institution | Role |
 |---|---|---|
-| _e.g. Jane Okafor_ | _e.g. Johns Hopkins_ | _e.g. Study lead_ |
+| John Snow | The Night's Watch | The study lead |
